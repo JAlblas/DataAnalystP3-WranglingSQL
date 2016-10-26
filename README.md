@@ -1,1 +1,0 @@
-# DataAnalystP3-WranglingSQL
